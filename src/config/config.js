@@ -1,0 +1,1 @@
+export const loginPath = 'http://localhost:3001/login'

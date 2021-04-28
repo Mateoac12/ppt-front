@@ -1,0 +1,23 @@
+.login-form {
+  padding: 1.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(6px);
+}
+
+.form {
+  max-width: 600px;
+  background-color: #ccc;
+  padding: 1.5rem;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
